@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Nike",
+        "image": "https://i.ibb.co/pQGtqvy/vecteezy-nike-logo-black-with-name-clothes-design-icon-abstract-10994412.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Adidas",
+        "image": "https://i.ibb.co/41bCqTb/addds.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Gucci",
+        "image": "https://i.ibb.co/L1nLvtg/gucci.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Zara",
+        "image": "https://i.ibb.co/PCwzBHf/new-zara-logo-hero-1-852x479.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Levi's",
+        "image": "https://i.ibb.co/4jL0XKh/lev.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Aarong",
+        "image": "https://i.ibb.co/PZc29rT/1200x630wa.png"
+    }
+]
